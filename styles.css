@@ -1,0 +1,29 @@
+.navbar {
+    background-color: black;
+}
+
+body {
+    background-color: grey;
+}
+
+.dis {
+    text-align: center;
+    margin: 10px;
+}
+
+.con {
+    background-color: blueviolet;
+    margin: 30px;
+}
+
+.day1 {
+    background-color: bisque;
+}
+
+.day2 {
+    background-color: cadetblue;
+}
+
+.day3 {
+    background-color: yellowgreen;
+}
